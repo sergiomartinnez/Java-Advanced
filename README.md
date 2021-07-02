@@ -11,6 +11,8 @@
 
 In this course i reviewed all the topics of java-oop and OOP previous courses, in the files you will find the project amazonviewer, basically pretends to be an interactive interface for watching movies, series, read books magazines, etc. and you can check it as read or seen if you have watched it, the code will record it and generate you a report status of the things that have you seen already, adding this information to database and generating new objects on the database.
 
+just for the info, i have downloaded the files required for the course so if there is any name like "anncode" is because i download the resources from her github (she is the teacher)
+
 ------------
 ## Technologies
 
